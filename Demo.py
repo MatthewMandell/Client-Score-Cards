@@ -1,6 +1,6 @@
 import csv
 Dict = {}
-
+#TEST INPUT
 def consolidate(val):
     alist = list(val)
     if len(alist)> 16:
